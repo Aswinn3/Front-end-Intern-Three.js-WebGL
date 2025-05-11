@@ -22,8 +22,8 @@ This project is a 3D drag-and-drop scene built using [Three.js](https://threejs.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/threejs-raycasting.git
-   cd threejs-raycasting
+   git clone https://github.com/Aswinn3/Front-end-Intern-Three.js-WebGL.git
+   cd Front-end-Intern-Three.js-WebGL
 
 
 2. **Install dependencies**
